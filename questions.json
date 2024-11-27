@@ -1,0 +1,1251 @@
+[
+  {
+    "content": "What does overriding a method mean?",
+    "choices": [
+      {
+        "content": "Changing a method's functionality in a subclass",
+        "id": "5e487991-914e-421e-a18c-a9e995095c34",
+        "is_correct": true
+      },
+      {
+        "content": "Changing a method's return type",
+        "id": "e2b8428d-2b59-45b1-ad4e-85135c6d22b4",
+        "is_correct": false
+      },
+      {
+        "content": "Creating a new method in a subclass",
+        "id": "8e80711d-7eab-445b-8600-72fdfd234e9c",
+        "is_correct": false
+      },
+      {
+        "content": "Deleting a method in a superclass",
+        "id": "dfe8db5b-b76e-4934-9a9a-61724d5824ea",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "In which type of inheritance does a class inherit attributes and behaviors from a single parent?",
+    "choices": [
+      {
+        "content": "Single Inheritance",
+        "id": "99444bd0-0abf-4f7b-a68e-4ac6a3d573a7",
+        "is_correct": true
+      },
+      {
+        "content": "Multiple Inheritance",
+        "id": "8a345fe7-78c0-4b7a-8f1e-06d9b1f87750",
+        "is_correct": false
+      },
+      {
+        "content": "Multilevel Inheritance",
+        "id": "9187e171-fafe-4f13-ac51-0d9e69d159af",
+        "is_correct": false
+      },
+      {
+        "content": "Hierarchical Inheritance",
+        "id": "8bd0b54f-99d6-4150-ad9a-42b7cf878255",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is typically used to represent an inheritance relationship in a class diagram?",
+    "choices": [
+      {
+        "content": "A dashed line",
+        "id": "992eebfa-067a-4448-90d8-a7bc8d8bc104",
+        "is_correct": false
+      },
+      {
+        "content": "An arrow",
+        "id": "2bf11172-b849-4600-a787-bf39323c639e",
+        "is_correct": false
+      },
+      {
+        "content": "A double-lined arrow",
+        "id": "92d29d95-119e-466a-a3cf-8b5c1204d72c",
+        "is_correct": false
+      },
+      {
+        "content": "A solid line with a hollow arrowhead",
+        "id": "aa79dcab-69d5-4e47-ae71-540813b38941",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "content": "How is runtime polymorphism different from compile-time polymorphism?",
+    "choices": [
+      {
+        "content": "It uses different data types",
+        "id": "a1a9ff32-9d11-44d1-97d6-1e5e8f5cd5e3",
+        "is_correct": false
+      },
+      {
+        "content": "It is resolved at compile-time",
+        "id": "71bb7d4a-f013-4eba-929c-f84aa34aef97",
+        "is_correct": false
+      },
+      {
+        "content": "It is resolved at runtime",
+        "id": "f3eb4116-15b6-41a1-9424-c8a585f1fd65",
+        "is_correct": true
+      },
+      {
+        "content": "It doesn't involve method overriding",
+        "id": "0424fbf9-c795-473e-8fd7-a2fc51f118e6",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is method overloading?",
+    "choices": [
+      {
+        "content": "Changing a method's functionality",
+        "id": "63488139-ae6b-4525-9108-a72dff29d7b5",
+        "is_correct": false
+      },
+      {
+        "content": "Creating methods with the same name but different parameters",
+        "id": "19797452-5603-4cb5-8adb-24650d022d38",
+        "is_correct": true
+      },
+      {
+        "content": "Both A and B",
+        "id": "2808888f-9173-4652-b504-0c396f2e962c",
+        "is_correct": false
+      },
+      {
+        "content": "None of the above",
+        "id": "09b6f30c-9833-449f-836e-fa5277a9a1c2",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is polymorphism in object-oriented programming?",
+    "choices": [
+      {
+        "content": "Ability to process objects differently based on their data type or class",
+        "id": "2a0f054f-3225-4ee6-a768-66f055028d5f",
+        "is_correct": true
+      },
+      {
+        "content": "A static typing system",
+        "id": "8b8251b7-1a30-4385-9ff6-55032d2a5a9c",
+        "is_correct": false
+      },
+      {
+        "content": "A way to inherit from multiple classes",
+        "id": "6ba5e51b-2048-4263-a7e9-763884575d52",
+        "is_correct": false
+      },
+      {
+        "content": "None of the above",
+        "id": "66d51f27-a12e-4752-a376-a5f660410162",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is the primary benefit of polymorphism?",
+    "choices": [
+      {
+        "content": "Faster execution",
+        "id": "f0304376-0060-4de7-be2d-663e7581b79e",
+        "is_correct": false
+      },
+      {
+        "content": "Code reusability",
+        "id": "d490d151-66ed-436f-a1e6-e41b72be7b93",
+        "is_correct": true
+      },
+      {
+        "content": "Increased memory usage",
+        "id": "9296988e-c7d5-4fee-8f06-14b99176d45b",
+        "is_correct": false
+      },
+      {
+        "content": "More complex code",
+        "id": "9206da7d-614c-409d-a04b-5eb7a465ca48",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which type of inheritance allows an object to inherit behavior from multiple parent classes?",
+    "choices": [
+      {
+        "content": "Single Inheritance",
+        "id": "2b8d8df5-eb76-4a96-8cab-d6236f643b47",
+        "is_correct": false
+      },
+      {
+        "content": "Multiple Inheritance",
+        "id": "70ff7f4d-d5d2-4b2f-8fb9-7bf0254381f5",
+        "is_correct": true
+      },
+      {
+        "content": "Multilevel Inheritance",
+        "id": "4b75af4b-8ca6-445c-9a8b-070fa2a227c6",
+        "is_correct": false
+      },
+      {
+        "content": "Hierarchical Inheritance",
+        "id": "ca41921d-cd2b-4843-9e33-d73ed13b628d",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which type of polymorphism is achieved by method overriding?",
+    "choices": [
+      {
+        "content": "Compile-time",
+        "id": "5967d79e-09b3-4c43-851f-f05b15aa4a6f",
+        "is_correct": false
+      },
+      {
+        "content": "Runtime",
+        "id": "539ba780-80f9-420b-acd6-d9f37a3ba348",
+        "is_correct": true
+      },
+      {
+        "content": "Both A and B",
+        "id": "917d320c-cbd9-4348-8006-770eb7ef32e9",
+        "is_correct": false
+      },
+      {
+        "content": "None of the above",
+        "id": "6ea99456-4a53-4ace-bca9-eda7f530d95c",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What access specifier is used in protected inheritance?",
+    "choices": [
+      {
+        "content": "Public",
+        "id": "1c944af7-f405-4737-85fe-a758292ff287",
+        "is_correct": false
+      },
+      {
+        "content": "Private",
+        "id": "32a36500-00fb-428f-bd37-c60d5e06cc45",
+        "is_correct": false
+      },
+      {
+        "content": "Protected",
+        "id": "d49d751c-b54d-41eb-9a7b-9cc5bc58a73b",
+        "is_correct": true
+      },
+      {
+        "content": "None of the above",
+        "id": "dabfbb7c-efb7-4539-a0a7-31b8b98a4f6a",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is the default access level for base classes in C++?",
+    "choices": [
+      {
+        "content": "Public",
+        "id": "1704f133-f16e-4760-a95f-25d89797d49f",
+        "is_correct": false
+      },
+      {
+        "content": "Private",
+        "id": "189a0f7f-4d97-4a4c-9212-8a6b606d9c72",
+        "is_correct": true
+      },
+      {
+        "content": "Protected",
+        "id": "a794975c-f77b-4a50-b1c4-ca43e98fb466",
+        "is_correct": false
+      },
+      {
+        "content": "None of the above",
+        "id": "75656dea-2ee6-4c80-86b3-a0c73be50d54",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which inheritance type involves a chain of base classes?",
+    "choices": [
+      {
+        "content": "Single Inheritance",
+        "id": "27f399c0-5e64-4f05-81e8-3fc1424fe5e4",
+        "is_correct": false
+      },
+      {
+        "content": "Multi-level Inheritance",
+        "id": "ccf67ce5-f474-4e87-988f-d61dabd815f0",
+        "is_correct": true
+      },
+      {
+        "content": "Multiple Inheritance",
+        "id": "6cf95e69-b2b4-4c8d-950e-cdcc9b1b6ae2",
+        "is_correct": false
+      },
+      {
+        "content": "Hierarchical Inheritance",
+        "id": "fb6a79fd-54d8-4dcf-852a-73ce19e8b0d0",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which access specifier in inheritance makes the public and protected members private?",
+    "choices": [
+      {
+        "content": "Public",
+        "id": "a10f78ff-3b72-4640-ba27-54e1436c138c",
+        "is_correct": false
+      },
+      {
+        "content": "Private",
+        "id": "c54e318e-e3cb-46cb-a66d-707cf0a04ec2",
+        "is_correct": true
+      },
+      {
+        "content": "Protected",
+        "id": "45fbe3f2-5b73-4c9a-9e91-350c6eb44c01",
+        "is_correct": false
+      },
+      {
+        "content": "Default",
+        "id": "f8d87f47-4bb9-442a-a30c-235106df8f5e",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which keyword is used to inherit a class in C++?",
+    "choices": [
+      {
+        "content": "Extends",
+        "id": "f25d94a3-0241-4003-a74d-aab1f040b168",
+        "is_correct": false
+      },
+      {
+        "content": "Inherits",
+        "id": "b99fa3ab-9aa9-4432-8310-b0274ceba016",
+        "is_correct": false
+      },
+      {
+        "content": ":",
+        "id": "ede4789e-0e83-412b-8fd7-bb5786d95815",
+        "is_correct": true
+      },
+      {
+        "content": "Uses",
+        "id": "88700513-709f-4c70-ab05-56431e5ca30a",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What can derived classes do with private members of the base class?",
+    "choices": [
+      {
+        "content": "Use them directly",
+        "id": "89ba8d62-0146-433c-86cf-9495d73eedc6",
+        "is_correct": false
+      },
+      {
+        "content": "Use them only through public methods",
+        "id": "1a579b9f-0cd3-4a76-8454-5344ae47b870",
+        "is_correct": true
+      },
+      {
+        "content": "Modify them",
+        "id": "9444afde-d665-4b8a-b1a6-a11381888b2e",
+        "is_correct": false
+      },
+      {
+        "content": "None of the above",
+        "id": "40705f35-6e8a-48a3-ae59-3f239fdef07f",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which C++ feature allows a derived class to reuse the base class's properties?",
+    "choices": [
+      {
+        "content": "Polymorphism",
+        "id": "42efd597-99d6-484f-87dc-834f9ce5079b",
+        "is_correct": false
+      },
+      {
+        "content": "Encapsulation",
+        "id": "331a4897-0d34-435a-9195-2cbbfed9aea3",
+        "is_correct": false
+      },
+      {
+        "content": "Inheritance",
+        "id": "068886f0-79af-4a97-af5a-3b939b906785",
+        "is_correct": true
+      },
+      {
+        "content": "Composition",
+        "id": "728bf7f6-9fc8-4e74-aebb-4a4c3358735c",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What happens if you use protected inheritance?",
+    "choices": [
+      {
+        "content": "Members become private",
+        "id": "7709acd5-00cf-43b9-a8e2-fd30b654bf1d",
+        "is_correct": false
+      },
+      {
+        "content": "Members become protected",
+        "id": "276222b8-e872-434c-9400-76e3742f1689",
+        "is_correct": true
+      },
+      {
+        "content": "Members become public",
+        "id": "96c67b5f-eada-4ee0-bb89-bbf31445afa3",
+        "is_correct": false
+      },
+      {
+        "content": "No change to members",
+        "id": "eb7e6c08-1189-445d-a09d-62c9f7fce53e",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is a common reason for using inheritance?",
+    "choices": [
+      {
+        "content": "To increase code complexity",
+        "id": "29349123-6dde-4bdf-b1fe-462203836e8c",
+        "is_correct": false
+      },
+      {
+        "content": "To decrease performance",
+        "id": "52498ee6-b490-494f-aad4-6da09386b349",
+        "is_correct": false
+      },
+      {
+        "content": "To enhance data security",
+        "id": "69c1812d-b2f5-4b19-928d-980ec9fd8f64",
+        "is_correct": false
+      },
+      {
+        "content": "To reuse existing code",
+        "id": "0ea75079-41cd-4356-8633-e90a25744cc0",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "content": "What type of inheritance involves multiple base classes for a single derived class?",
+    "choices": [
+      {
+        "content": "Single Inheritance",
+        "id": "c3f84ba9-a6d0-46c9-902c-0487d8014cad",
+        "is_correct": false
+      },
+      {
+        "content": "Multi-level Inheritance",
+        "id": "993f3cba-8870-4341-98e6-82d9e9a5d248",
+        "is_correct": false
+      },
+      {
+        "content": "Multiple Inheritance",
+        "id": "4072f82d-95ec-429c-a412-08639f52824e",
+        "is_correct": true
+      },
+      {
+        "content": "Hierarchical Inheritance",
+        "id": "5bc5e3c2-3643-4d1e-8193-3507fc0b8e48",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which mode of inheritance allows derived class to access all members except private?",
+    "choices": [
+      {
+        "content": "Public",
+        "id": "93b7a53e-af84-4ed7-b029-4e07de4323de",
+        "is_correct": false
+      },
+      {
+        "content": "Private",
+        "id": "0287f4fa-2a2a-45c8-b46e-47b6700c6474",
+        "is_correct": false
+      },
+      {
+        "content": "Protected",
+        "id": "34f65eca-27bc-44da-bf41-5614bfabb0e0",
+        "is_correct": true
+      },
+      {
+        "content": "None of the above",
+        "id": "60d704bb-f10b-4e30-8ed5-d532d4dc494a",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which type of polymorphism is demonstrated by overriding functions?",
+    "choices": [
+      {
+        "content": "Compile-time",
+        "id": "c7ff8a37-79fe-49bb-82f3-e8133d51358b",
+        "is_correct": false
+      },
+      {
+        "content": "Runtime",
+        "id": "64d8fb5d-2735-46a5-bc6c-4e88fc8ff48b",
+        "is_correct": true
+      },
+      {
+        "content": "Structural",
+        "id": "e3b1e6b9-9f03-496b-9588-9d17ef85a45e",
+        "is_correct": false
+      },
+      {
+        "content": "Procedural",
+        "id": "259a2d83-384f-4bd8-9e43-95a04cb82387",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "How does compile-time polymorphism differ from runtime polymorphism?",
+    "choices": [
+      {
+        "content": "It is determined during the booting phase",
+        "id": "2b55585f-35e6-425c-b90a-7687efa9e70a",
+        "is_correct": false
+      },
+      {
+        "content": "It occurs during the execution of the program",
+        "id": "d69da577-4e88-4520-8adc-957f0aa0b664",
+        "is_correct": false
+      },
+      {
+        "content": "It is checked at compile time",
+        "id": "d740df2f-ff85-4831-a660-b3e5636a839f",
+        "is_correct": true
+      },
+      {
+        "content": "Both A and C",
+        "id": "0966cb4d-f79c-45fd-9653-05860af49f9e",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is the purpose of the virtual keyword in C++?",
+    "choices": [
+      {
+        "content": "To define constant variables",
+        "id": "5c28a438-2b98-4af5-b8a0-dda1036bd782",
+        "is_correct": false
+      },
+      {
+        "content": "To create virtual classes",
+        "id": "8b92a0fc-615a-4e59-9278-a0b777b17a9f",
+        "is_correct": false
+      },
+      {
+        "content": "To allow a function to be overridden in a derived class",
+        "id": "3949d8ee-17c7-4b6a-8170-0486a462320b",
+        "is_correct": true
+      },
+      {
+        "content": "To declare abstract classes",
+        "id": "d46d423c-0fd8-40ac-8d17-b55f92c06990",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is function overloading?",
+    "choices": [
+      {
+        "content": "Using multiple functions with the same name but different parameters",
+        "id": "4cfe5d8f-0fd5-49c3-8c22-e4bd91f39866",
+        "is_correct": true
+      },
+      {
+        "content": "Defining functions outside of classes",
+        "id": "8e42652f-085c-4d9e-b721-062e080eae1a",
+        "is_correct": false
+      },
+      {
+        "content": "Creating multiple functions in multiple classes",
+        "id": "246aa4ab-95e1-485e-8e71-19d14e887ff4",
+        "is_correct": false
+      },
+      {
+        "content": "A runtime technique for memory management",
+        "id": "8834694a-e4ef-4e34-99bd-f55c8217b9ab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Imagine you have a class `Animal` and two subclasses `Dog` and `Cat`. Each subclass has its own `sound()` method. Which concept allows you to call `sound()` on an object of type `Animal`, and it will correctly call the `sound()` method for either `Dog` or `Cat`?",
+    "choices": [
+      {
+        "content": "Inheritance",
+        "id": "bbdffae3-349d-467b-8dd3-ce818b8eb3e1",
+        "is_correct": false
+      },
+      {
+        "content": "Polymorphism",
+        "id": "4348e09d-ee75-4a95-b2a4-5967276d203e",
+        "is_correct": true
+      },
+      {
+        "content": "Abstraction",
+        "id": "e6f9d95d-6f90-43ef-9ddd-d0075e8eb307",
+        "is_correct": false
+      },
+      {
+        "content": "None of the above",
+        "id": "308ce8b1-01aa-4e3a-9e77-cc1d1eda1093",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What allows runtime polymorphism in C++?",
+    "choices": [
+      {
+        "content": "Function overloading",
+        "id": "cea1b18b-fd0e-4f77-8240-9638a2dbfd07",
+        "is_correct": false
+      },
+      {
+        "content": "Templates",
+        "id": "aa243583-1789-4a96-8b9f-2eb77c12ebb6",
+        "is_correct": false
+      },
+      {
+        "content": "Macros",
+        "id": "7e992592-eaad-47f8-9f80-5d7719cbf012",
+        "is_correct": false
+      },
+      {
+        "content": "Virtual functions",
+        "id": "06a97fcc-60f6-4e6a-b936-0b6a9e68dae1",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "content": "What is a common reason for using inheritance?",
+    "choices": [
+      {
+        "content": "To increase code complexity",
+        "id": "7e60faaa-5e28-46ed-90ad-0702b53040de",
+        "is_correct": false
+      },
+      {
+        "content": "To decrease performance",
+        "id": "1937a191-cd73-4a05-839c-3598a5b97ebe",
+        "is_correct": false
+      },
+      {
+        "content": "To enhance data security",
+        "id": "aee678b6-43af-4e10-99bd-cda30743457b",
+        "is_correct": false
+      },
+      {
+        "content": "To reuse existing code",
+        "id": "b80561c2-b412-4239-ab2b-5ebd97954711",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "content": "What is polymorphism in the context of programming?",
+    "choices": [
+      {
+        "content": "A specific algorithm",
+        "id": "fc9f7e3b-ba07-44df-8ef6-bc9d4ef4d849",
+        "is_correct": false
+      },
+      {
+        "content": "A data structure",
+        "id": "cb2a39f0-b8d5-4bf9-9163-326b2b7247f8",
+        "is_correct": false
+      },
+      {
+        "content": "A feature allowing objects to be processed in multiple forms",
+        "id": "e9079793-c2b1-4ddd-9d51-f1ebb0710132",
+        "is_correct": true
+      },
+      {
+        "content": "A syntax for defining classes",
+        "id": "1e6b797f-ada0-4c6e-9f88-69a3a96c2024",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which of the following statements is true regarding runtime polymorphism and compile-time polymorphism?",
+    "choices": [
+      {
+        "content": "Runtime polymorphism is achieved through function overloading, while compile-time polymorphism is achieved through function overriding.",
+        "id": "361ce468-ab45-4847-8458-7fe0495b98f6",
+        "is_correct": false
+      },
+      {
+        "content": "Runtime polymorphism allows a derived class to provide its own implementation of a virtual function, while compile-time polymorphism involves having multiple functions with the same name but different parameter types.",
+        "id": "b3f3d30e-5691-4252-9a70-842110e4d075",
+        "is_correct": true
+      },
+      {
+        "content": "Runtime polymorphism is determined at compile-time, while compile-time polymorphism is determined at runtime.",
+        "id": "fdb61d7d-d166-43a1-9705-61a86cd8a935",
+        "is_correct": false
+      },
+      {
+        "content": "Runtime polymorphism and compile-time polymorphism are identical in terms of their mechanisms and use cases.",
+        "id": "79d7a333-bcd1-4a30-a1d2-2a6fa011243f",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "You have a class `Shape` with a method `draw()`. `Circle` and `Square` both inherit from `Shape` but do not override the `draw()` method. If you create an object of `Circle` and call `draw()`, which method will be executed?",
+    "choices": [
+      {
+        "content": "No method will be called, as `Circle` didn’t define `draw()`.",
+        "id": "414c06c5-bb9d-428d-8fb1-ad03a5b46aa8",
+        "is_correct": false
+      },
+      {
+        "content": "The `draw()` method of Shape.",
+        "id": "b16fa8ea-e98b-42dc-8ad6-86402c3cfd6e",
+        "is_correct": true
+      },
+      {
+        "content": "The `draw()` method will throw an error.",
+        "id": "f2005f33-2248-47f3-9c60-dbd7253ca56e",
+        "is_correct": false
+      },
+      {
+        "content": "The program will crash.",
+        "id": "b8b7f9ad-4a7c-4a0f-8826-9c8bb780106e",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which of the following statements accurately describes abstract classes?",
+    "choices": [
+      {
+        "content": "Abstract classes can be instantiated directly.",
+        "id": "ee8839ed-4f78-4e7f-9e96-9a71a3c18221",
+        "is_correct": false
+      },
+      {
+        "content": "Abstract classes have fully implemented member functions.",
+        "id": "31390c30-b8f5-43f2-becf-1bca9c0ec9d4",
+        "is_correct": false
+      },
+      {
+        "content": "Abstract classes define common interfaces and behaviors within class inheritance hierarchies.",
+        "id": "59e7b168-af67-4b04-9e4e-551d48129bfe",
+        "is_correct": true
+      },
+      {
+        "content": "Abstract classes cannot have any member variables.",
+        "id": "34874469-daa3-467b-8869-6edf6cde55a5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Why can't you instantiate an abstract class?",
+    "choices": [
+      {
+        "content": "It has no constructor",
+        "id": "ffd4fbb8-9f90-4d9e-a471-fb5ebefc4154",
+        "is_correct": false
+      },
+      {
+        "content": "It has private members",
+        "id": "185812ab-7f03-4279-8e35-5d20f8f3ca17",
+        "is_correct": false
+      },
+      {
+        "content": "It may contain undefined pure virtual functions",
+        "id": "3cddfba7-2f28-4e34-90cf-87d0a5208a6f",
+        "is_correct": true
+      },
+      {
+        "content": "It only contains static methods",
+        "id": "5ce651e2-becd-4255-a9c6-da9e1a44fcb5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "How can derived classes interact with pure virtual functions?",
+    "choices": [
+      {
+        "content": "They must override them.",
+        "id": "3a72f4fd-c9c2-4d44-b89a-3ac12c9c5e5c",
+        "is_correct": true
+      },
+      {
+        "content": "They can ignore them.",
+        "id": "0fad6ddd-6e50-4071-ae04-d905f334f68a",
+        "is_correct": false
+      },
+      {
+        "content": "They can make them private.",
+        "id": "c69f7b36-da5b-4eac-b6ae-0fcbb4a26784",
+        "is_correct": false
+      },
+      {
+        "content": "They must delete them.",
+        "id": "ad078cd6-b876-4cff-96b0-d02c78fa6de3",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "Which type of inheritance allows an object to inherit behavior from multiple parent classes?",
+    "choices": [
+      {
+        "content": "Single Inheritance",
+        "id": "8ddac008-3fd2-4fc7-941d-30f8dd1528bb",
+        "is_correct": false
+      },
+      {
+        "content": "Multiple Inheritance",
+        "id": "ab90c2ce-74b3-4eda-842f-647b83212def",
+        "is_correct": true
+      },
+      {
+        "content": "Multilevel Inheritance",
+        "id": "bd993dda-a500-4fdb-9b45-5329a1a4b3a8",
+        "is_correct": false
+      },
+      {
+        "content": "Hierarchical Inheritance",
+        "id": "59832701-9c5d-4a70-a1a1-4fd22fe3ec04",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "In a class hierarchy, why might you declare a method in the base class as virtual or override in some programming languages?",
+    "choices": [
+      {
+        "content": "To force subclasses to use the base class method.",
+        "id": "3c929b43-ed43-4a14-a493-e573c12b3985",
+        "is_correct": false
+      },
+      {
+        "content": "To allow the method to be overridden in derived classes.",
+        "id": "930ff190-80a5-4ca8-9a92-e1d2e63ce729",
+        "is_correct": true
+      },
+      {
+        "content": "To prevent the method from being inherited.",
+        "id": "46a82396-74d2-4815-810b-d7fc10e54c23",
+        "is_correct": false
+      },
+      {
+        "content": "To make the base class abstract.",
+        "id": "bc64adae-1287-4487-937f-d5af8529e532",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "What is the purpose of virtual functions in an abstract class?",
+    "choices": [
+      {
+        "content": "Virtual functions allow direct instantiation of abstract classes.",
+        "id": "8e11a14a-da59-4ba3-8fc4-147c5c29ebc8",
+        "is_correct": false
+      },
+      {
+        "content": "Virtual functions provide a way to override member functions in derived classes.",
+        "id": "8f486c1a-501a-435c-91ae-ea2e2ad50155",
+        "is_correct": true
+      },
+      {
+        "content": "Virtual functions restrict access to the abstract class from derived classes.",
+        "id": "84493c06-7ee5-41fa-bc12-327be89b8d8f",
+        "is_correct": false
+      },
+      {
+        "content": "Virtual functions enable multiple inheritance in abstract classes.",
+        "id": "7eae00c1-4e90-4860-ac54-6d17c1c63608",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "content": "How are abstract classes different from concrete classes?",
+    "choices": [
+      {
+        "content": "Abstract classes can be instantiated directly, while concrete classes cannot.",
+        "id": "94ca25c1-118c-4e40-a6e2-6ccdecde25c6",
+        "is_correct": false
+      },
+      {
+        "content": "Abstract classes have pure virtual functions, while concrete classes have fully implemented member functions.",
+        "id": "337d43e5-73a9-45e1-96c0-83c3e1ad1887",
+        "is_correct": true
+      },
+      {
+        "content": "Abstract classes cannot have member variables, while concrete classes can.",
+        "id": "b2d21227-7480-407f-9a4e-e098ea839f14",
+        "is_correct": false
+      },
+      {
+        "content": "Abstract classes do not participate in achieving polymorphism, while concrete classes do.",
+        "id": "5239689c-8b79-4a5a-b969-037fb032e39c",
+        "is_correct": false
+      }
+    ]},
+  {
+      "content": "Which statement about virtual functions is true?",
+      "choices": [
+        {
+          "content": "They must have a body in the base class.",
+          "id": "ef44b1e8-ed87-4ad9-a3d0-fe80c92e4129",
+          "is_correct": false
+        },
+        {
+          "content": "They prevent overriding in derived classes.",
+          "id": "da527a16-98b8-4586-b13a-62e2228d5246",
+          "is_correct": false
+        },
+        {
+          "content": "They enable polymorphic behavior.",
+          "id": "fb112df5-4311-4592-b4af-301d62c7874f",
+          "is_correct": true
+        },
+        {
+          "content": "They are automatically private.",
+          "id": "77b4816b-3a03-4bd8-ba50-d0be16415f95",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "What is the role of abstract classes in achieving polymorphism?",
+      "choices": [
+        {
+          "content": "Abstract classes provide a common interface for derived classes, enabling them to have different behaviors.",
+          "id": "c7fb624e-b51f-43cf-b9e5-eb4fc8646cbb",
+          "is_correct": true
+        },
+        {
+          "content": "Abstract classes define concrete implementations of member functions that derived classes can inherit.",
+          "id": "481c9665-d7f1-4581-b9e1-0388f875ec14",
+          "is_correct": false
+        },
+        {
+          "content": "Abstract classes prevent derived classes from having their own member variables.",
+          "id": "919c6183-2931-4be1-8dca-f57e6eaec189",
+          "is_correct": false
+        },
+        {
+          "content": "Abstract classes limit the number of derived classes that can inherit from them.",
+          "id": "280fd283-a741-4d57-80a0-f47c214e7559",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "In a class hierarchy, the `Car` class inherits from the `Vehicle` class. The Vehicle class has a `start()` method. If `Car` does not override `start()`, what will happen when you call `start()` on a `Car` object?",
+      "choices": [
+        {
+          "content": "The `start()` method of the `Vehicle` class will be called.",
+          "id": "6a74b6f3-f529-4417-b18e-69ee7634ad73",
+          "is_correct": true
+        },
+        {
+          "content": "There will be a compilation error because `Car` did not override `start()`.",
+          "id": "46cf586c-4275-42ca-b244-1c072f2adbc9",
+          "is_correct": false
+        },
+        {
+          "content": "The program will crash at runtime.",
+          "id": "ac256a27-6d6e-4019-a7d4-235c42ce0b6c",
+          "is_correct": false
+        },
+        {
+          "content": "The `start()` method will not work for `Car` objects.",
+          "id": "1a406722-5186-423b-bd50-193bb64be919",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "What can abstract classes contain?",
+      "choices": [
+        {
+          "content": "Only non-virtual member functions",
+          "id": "49c63ce7-c2c4-46a1-96a3-2f06a9b23bf4",
+          "is_correct": false
+        },
+        {
+          "content": "Both pure virtual and regular member functions",
+          "id": "54006ce3-41f3-4e29-be29-00fc0b7370ca",
+          "is_correct": true
+        },
+        {
+          "content": "Only private members",
+          "id": "1728222c-bd22-4e63-9541-f519fbab73a4",
+          "is_correct": false
+        },
+        {
+          "content": "Only constructors",
+          "id": "973dcc13-4ac7-41a9-ac75-588f164da584",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "Which among the following best describes multiple inheritance?",
+      "choices": [
+        {
+          "content": "Two classes being parent of any other classes",
+          "id": "5f08099b-0e6a-41b1-9aad-86a5e61a669c",
+          "is_correct": false
+        },
+        {
+          "content": "Three classes being parent of other classes",
+          "id": "f36508b0-2484-4483-87d7-7b7b62c15ca4",
+          "is_correct": false
+        },
+        {
+          "content": "More than one class being parent of other child classes",
+          "id": "3bf71927-9a0a-4294-8c61-b8fb8417781c",
+          "is_correct": false
+        },
+        {
+          "content": "More than one class being parent of single child",
+          "id": "67b060b0-2583-421f-b0f5-d13f5c6b9c3f",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "content": "How are abstract classes different from concrete classes?",
+      "choices": [
+        {
+          "content": "Abstract classes can be instantiated directly, while concrete classes cannot.",
+          "id": "024946fc-65b6-4eb5-b95e-2d88abc6f59e",
+          "is_correct": false
+        },
+        {
+          "content": "Abstract classes have pure virtual functions, while concrete classes have fully implemented member functions.",
+          "id": "f0454e97-0ec5-47df-a236-fb62aa02f360",
+          "is_correct": true
+        },
+        {
+          "content": "Abstract classes cannot have member variables, while concrete classes can.",
+          "id": "11223881-22e1-4402-9189-e2acc4cfcac4",
+          "is_correct": false
+        },
+        {
+          "content": "Abstract classes do not participate in achieving polymorphism, while concrete classes do.",
+          "id": "a5538b8a-8f7e-4a4b-a45b-02d988065858",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "If there are 3 classes. Class C is derived from class B and B is derived from A, Which class destructor will be called at last if object of C is destroyed.",
+      "choices": [
+        {
+          "content": "A",
+          "id": "dde000f4-aa10-4697-9b0e-5f46d70e3025",
+          "is_correct": true
+        },
+        {
+          "content": "B",
+          "id": "6ff88beb-d3fb-42eb-b754-fe79f264cae2",
+          "is_correct": false
+        },
+        {
+          "content": "C",
+          "id": "663bf513-54d1-4255-a854-7eaa558db342",
+          "is_correct": false
+        },
+        {
+          "content": "All together",
+          "id": "2ff73271-4812-4546-8d7d-c82e0ce6bf3d",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "What is the minimum number of levels for a implementing multilevel inheritance?",
+      "choices": [
+        {
+          "content": "1",
+          "id": "6b908022-fb76-4755-aa1c-b339a91dc721",
+          "is_correct": false
+        },
+        {
+          "content": "2",
+          "id": "919e6ef5-c6d8-49ed-aa78-71148362d843",
+          "is_correct": false
+        },
+        {
+          "content": "3",
+          "id": "228a24ff-5e38-4bcc-b6dd-d7a1be599573",
+          "is_correct": true
+        },
+        {
+          "content": "4",
+          "id": "b1cf1608-edeb-4375-8f02-f644277822ef",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "How many classes can be inherited by a single class in multiple inheritance (C++)?",
+      "choices": [
+        {
+          "content": "Only 2",
+          "id": "52ddc26d-8a38-42e6-98d5-fa6067bcbc3c",
+          "is_correct": false
+        },
+        {
+          "content": "Only 27",
+          "id": "0f8b7614-8876-4f25-9ae5-16dc6e3cc799",
+          "is_correct": false
+        },
+        {
+          "content": "Only 1024",
+          "id": "068e7374-2746-468a-af96-c8c474b2d1a4",
+          "is_correct": false
+        },
+        {
+          "content": "Any number of classes can be inherited",
+          "id": "986e96e1-c969-41e0-bf34-c0b99c536a43",
+          "is_correct": true
+        }
+      ]
+    },
+    {
+      "content": "What is a pure virtual function?",
+      "choices": [
+        {
+          "content": "A function defined in derived classes",
+          "id": "3bf8610f-6cea-41f7-b958-80350628a943",
+          "is_correct": false
+        },
+        {
+          "content": "A virtual function without implementation in the base class",
+          "id": "bd64622a-de24-4a59-b5e5-9c503451ae36",
+          "is_correct": true
+        },
+        {
+          "content": "A virtual function that returns void",
+          "id": "9202c688-816c-44f3-8d9c-1965208abf52",
+          "is_correct": false
+        },
+        {
+          "content": "A function that must be static",
+          "id": "3c1e1a52-adfc-4ba4-b7b4-1cc397ef747a",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "Imagine you are designing a set of blueprints for different types of houses. You start with a basic blueprint for a \"House\" and then create more specific blueprints like \"Cottage\" and \"Villa\" that add extra features. Which concept in OOP does this scenario best represent?",
+      "choices": [
+        {
+          "content": "Inheritance",
+          "id": "081de3df-b868-474d-b79e-2ce4cc204c0e",
+          "is_correct": true
+        },
+        {
+          "content": "Abstraction",
+          "id": "0e8a8403-e9aa-44cf-b9ee-6e6b83f3fc34",
+          "is_correct": false
+        },
+        {
+          "content": "Interfaces",
+          "id": "0f922ed1-eefd-4a0a-87c6-dc66bff6ef9c",
+          "is_correct": false
+        },
+        {
+          "content": "Encapsulation",
+          "id": "ab2a70ac-8e40-4f31-ab1e-9092728f22b5",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "Imagine a musician who can play multiple instruments. When asked to perform, they can choose to play the piano, guitar, or violin, depending on the request. Which OOP concept does this best illustrate?",
+      "choices": [
+        {
+          "content": "Inheritance",
+          "id": "cb97b35e-5486-4792-a81f-c4b3d2476117",
+          "is_correct": false
+        },
+        {
+          "content": "Abstraction",
+          "id": "21691683-6492-4c92-9ded-0a10088ab383",
+          "is_correct": false
+        },
+        {
+          "content": "Polymorphism",
+          "id": "35b81af6-ca19-4265-ac37-18562c634d60",
+          "is_correct": true
+        },
+        {
+          "content": "Encapsulation",
+          "id": "edcfefed-fdc4-4742-878b-e8fdf8204c51",
+          "is_correct": false
+        }
+      ]
+    },
+    {
+      "content": "How can we implement function overloading in C++? \n\nA. Using types of different arguments.   \nB. Using number of arguments.   \nC. Using order of arguments.   \nD. All of the above",
+      "choices": [
+        {
+          "content": "A,B",
+          "id": "b4870778-e326-478f-8a8d-0a6d9bee49d2",
+          "is_correct": false
+        },
+        {
+          "content": "B,C",
+          "id": "b3be3e1b-515b-42ea-acbf-b564445ee812",
+          "is_correct": false
+        },
+        {
+          "content": "A,C",
+          "id": "e8a289bb-ad71-4ef5-b750-e2549e3b990b",
+          "is_correct": false
+        },
+        {
+          "content": "All of the mentioned",
+          "id": "42e4a8e8-3915-422b-96ea-7b352c2a45e9",
+          "is_correct": true
+        }
+      ]
+    }
+  ]
